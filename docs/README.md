@@ -338,12 +338,6 @@ curl http://localhost:8000/debug/status
 pip install ragas mlflow datasets
 ```
 
-## 📚 Documentation
-
-- [Architecture Details](docs/ARCHITECTURE.md) - System design and data flows
-- [Deployment Guide](docs/DEPLOYMENT.md) - Setup and configuration
-- [Evaluation Guide](docs/EVALUATION.md) - RAGAS metrics and usage
-- [API Reference](docs/API_REFERENCE.md) - Endpoint documentation
 
 ## 🎓 Technologies Used
 
@@ -383,6 +377,4 @@ pip install ragas mlflow datasets
 
 ---
 
-**Version:** 1.0  
-**Last Updated:** December 2024  
-**Status:** Production Ready ✅
+
