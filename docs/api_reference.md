@@ -631,5 +631,4 @@ Version format: `MAJOR.MINOR.PATCH`
 
 ---
 
-**Last Updated:** December 2024  
-**API Version:** 3.0.0
+
